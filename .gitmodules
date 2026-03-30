@@ -1,0 +1,9 @@
+[submodule "checker-framework"]
+	path = checker-framework
+	url = https://github.com/YukiYang31/checker-framework.git
+[submodule "jdk"]
+	path = jdk
+	url = https://github.com/YukiYang31/jdk.git
+[submodule "randoop"]
+	path = randoop
+	url = https://github.com/YukiYang31/randoop.git
